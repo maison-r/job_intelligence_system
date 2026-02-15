@@ -1,0 +1,6 @@
+These are the python libraries used fo this project:
+requests
+beautifulsoup4
+pandas
+scikit-learn
+sqlite3
